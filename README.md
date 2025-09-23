@@ -8,3 +8,14 @@ Por ultimo, al entrar al pong, aparecerá una ventana con 4 opciones. Jugar cont
 
 La clase principal se llama Main, y no es mas que la señal para ejecutar el MainMenu, la ventana con los 3 minijuegos
 
+Autores
+Este proyecto ha sido desarrollado como trabajo grupal de la asignatura Programación III de la Universidad de Deusto.
+
+Creado por:
+
+Mikel Albisu
+Alvaro Franco
+Cailean Goyoaga
+
+Se ha utilizado inteligencia artificial como asistencia durante el desarrollo del proyecto.
+
